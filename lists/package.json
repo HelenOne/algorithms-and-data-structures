@@ -1,0 +1,22 @@
+{
+  "name": "lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.ts",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc --watch",
+    "build": "tsc --build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.9.1",
+    "jest": "^24.9.0",
+    "node-ts": "^5.0.2",
+    "nodemon": "^1.19.2",
+    "ts-jest": "^24.3.0",
+    "typescript": "^3.9.7"
+  }
+}
