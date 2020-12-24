@@ -1,9 +1,10 @@
 {
-  "name": "lists",
+  "name": "kruskal",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "test": "jest",
+    "kruskal-cli": "node ./Kruskal.cli.js",
     "build": "tsc --build"
   },
   "keywords": [],

@@ -1,4 +1,4 @@
-import { LinkedList, Node } from './LinkedList';
+import { LinkedList } from './LinkedList';
 
 export class Stack<T> extends LinkedList<T> {
 
