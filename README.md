@@ -2,6 +2,7 @@
 Study project
 
 ## usage
+
 0. Check you have installed [node](https://nodejs.org/en/)
 1. Open any directory (lists, timsort, avl-tree, kruskal)
 2. Run in terminal `npm install` to install all project dependencies
